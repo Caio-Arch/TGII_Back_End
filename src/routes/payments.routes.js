@@ -20,7 +20,7 @@ paymentRouter.post('/ordes', async (request,response) => {
             reference_id: 1,
             amount: {
                 currency_code: 'BRL',
-                value: '10.0',
+                value: '800.00',
             },
         },
         {
